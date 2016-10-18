@@ -1,0 +1,358 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<data>
+  <product_type type_url="http://mebli-lviv.com.ua/wooden-beds">
+    <product product_url="http://mebli-lviv.com.ua/venice_beds_est">
+      <equipment price="Ціна:  2596 грн.">
+        <description>висота  - 690/430 мм 
+ширина   - 860  мм 
+довжина  - 1980 мм 
+вага  - 30.00 кг</description>
+        <image scr="http://mebli-lviv.com.ua/makethumb.php?pic=upload/img/3210.jpg&amp;w=125&amp;sq=Y"/>
+      </equipment>
+      <equipment price="Ціна:  3352 грн.">
+        <description>висота  - 690/430 мм 
+ширина   - 860  мм 
+довжина  - 1980 мм 
+вага  - 30.00 кг</description>
+        <image scr="http://mebli-lviv.com.ua/makethumb.php?pic=upload/img/3213.jpg&amp;w=125&amp;sq=Y"/>
+      </equipment>
+      <equipment price="Ціна:  2764 грн.">
+        <description>висота  - 690/430 мм 
+ширина   - 960  мм 
+довжина  - 2080 мм 
+вага  - 34.00 кг</description>
+        <image scr="http://mebli-lviv.com.ua/makethumb.php?pic=upload/img/2426.jpg&amp;w=125&amp;sq=Y"/>
+      </equipment>
+      <equipment price="Ціна:  3520 грн.">
+        <description>висота  - 690/430 мм 
+ширина   - 960  мм 
+довжина  - 2080 мм 
+вага  - 34.00 кг</description>
+        <image scr="http://mebli-lviv.com.ua/makethumb.php?pic=upload/img/2427.jpg&amp;w=125&amp;sq=Y"/>
+      </equipment>
+      <equipment price="Ціна:  3914 грн.">
+        <description>висота  - 690/430 мм 
+ширина   - 1260  мм 
+довжина  - 2080 мм 
+вага  - 47.00 кг</description>
+        <image scr="http://mebli-lviv.com.ua/makethumb.php?pic=upload/img/3211.jpg&amp;w=125&amp;sq=Y"/>
+      </equipment>
+    </product>
+  </product_type>
+  <product_type type_url="http://mebli-lviv.com.ua/ligka_kovani">
+    <product product_url="http://mebli-lviv.com.ua/berlin">
+      <equipment price="Ціна:  4900 грн.">
+        <description>висота  - 1050 мм 
+ширина   - 1670  мм 
+довжина  - 2120 мм</description>
+        <image scr="http://mebli-lviv.com.ua/makethumb.php?pic=upload/img/1390315360.jpg&amp;w=125&amp;sq=Y"/>
+      </equipment>
+      <equipment price="Ціна:  1720 грн.">
+        <description>висота  - 1050 мм 
+ширина   - 1670  мм 
+довжина  - 2120 мм</description>
+        <image scr="http://mebli-lviv.com.ua/makethumb.php?pic=upload/img/8712.jpg&amp;w=125&amp;sq=Y"/>
+      </equipment>
+    </product>
+  </product_type>
+  <product_type type_url="http://mebli-lviv.com.ua/dvoyarusni_ligka">
+    <product product_url="http://mebli-lviv.com.ua/basket"/>
+  </product_type>
+  <product_type type_url="http://mebli-lviv.com.ua/ligko_kolusochka"/>
+  <product_type type_url="http://mebli-lviv.com.ua/kitchen-tables"/>
+  <product_type type_url="http://mebli-lviv.com.ua/pysmovi_ta_computerni_stoly">
+    <product product_url="http://mebli-lviv.com.ua/computerniy_stil_1tumbu">
+      <equipment price="Ціна:  860 грн.">
+        <description>висота столу  - 755 мм 
+ширина   - 500  мм 
+довжина  - 1100 мм 
+вага  - 35.00 кг</description>
+        <image scr="http://mebli-lviv.com.ua/makethumb.php?pic=upload/img/13374.jpg&amp;w=125&amp;sq=Y"/>
+      </equipment>
+    </product>
+  </product_type>
+  <product_type type_url="http://mebli-lviv.com.ua/pysmovi_ta_computerni_stoly">
+    <product product_url="http://mebli-lviv.com.ua/computerniy_stil_1tumbu">
+      <equipment price="Ціна:  860 грн.">
+        <description>висота столу  - 755 мм 
+ширина   - 500  мм 
+довжина  - 1100 мм 
+вага  - 35.00 кг</description>
+        <image scr="http://mebli-lviv.com.ua/makethumb.php?pic=upload/img/13374.jpg&amp;w=125&amp;sq=Y"/>
+      </equipment>
+    </product>
+  </product_type>
+  <product_type type_url="http://mebli-lviv.com.ua/coffee_tables">
+    <product product_url="http://mebli-lviv.com.ua/journalniy_stil_Tulpan">
+      <equipment price="Ціна:  300 грн.">
+        <description>висота  - 640 мм 
+глибина   - 500  мм 
+ширина   - 800  мм 
+вага  - 11.60 кг</description>
+        <image scr="http://mebli-lviv.com.ua/makethumb.php?pic=upload/img/1276816943.jpg&amp;w=125&amp;sq=Y"/>
+      </equipment>
+    </product>
+  </product_type>
+  <product_type type_url="http://mebli-lviv.com.ua/pembroke-tables">
+    <product product_url="http://mebli-lviv.com.ua/basket"/>
+  </product_type>
+  <product_type type_url="http://mebli-lviv.com.ua/komplektu_sklo">
+    <product product_url="http://mebli-lviv.com.ua/komplekt_dionizos">
+      <equipment price="Ціна:  5400 грн.">
+        <description>висота столу  - 750 мм 
+ширина   - 900  мм 
+довжина  - 1600 мм</description>
+        <image scr="http://mebli-lviv.com.ua/makethumb.php?pic=upload/img/5301.png&amp;w=125&amp;sq=Y"/>
+      </equipment>
+    </product>
+  </product_type>
+  <product_type type_url="http://mebli-lviv.com.ua/mattresses-bonnel">
+    <product product_url="http://mebli-lviv.com.ua/mattress-lyon-matroluxe"/>
+  </product_type>
+  <product_type type_url="http://mebli-lviv.com.ua/mattresses-pocket-spring">
+    <product product_url="http://mebli-lviv.com.ua/mattress-sofia"/>
+  </product_type>
+  <product_type type_url="http://mebli-lviv.com.ua/mattresses-iq-spring">
+    <product product_url="http://mebli-lviv.com.ua/mattress-alfa"/>
+  </product_type>
+  <product_type type_url="http://mebli-lviv.com.ua/mattresses-children-s">
+    <product product_url="http://mebli-lviv.com.ua/kids-mattress-baby"/>
+  </product_type>
+  <product_type type_url="http://mebli-lviv.com.ua/mattresses-springless">
+    <product product_url="http://mebli-lviv.com.ua/mattress-legion"/>
+  </product_type>
+  <product_type type_url="http://mebli-lviv.com.ua/mattresses-skeletal">
+    <product product_url="http://mebli-lviv.com.ua/mattress-skeletal">
+      <equipment price="Ціна:  1140 грн.">
+        <description>висота  - 200 мм 
+ширина   - 800  мм 
+довжина  - 2000 мм</description>
+        <image scr="http://mebli-lviv.com.ua/makethumb.php?pic=upload/img/2820.jpg&amp;w=125&amp;sq=Y"/>
+      </equipment>
+    </product>
+  </product_type>
+  <product_type type_url="http://mebli-lviv.com.ua/shafy_kupe">
+    <product product_url="http://mebli-lviv.com.ua/shafu_kupe_PM"/>
+  </product_type>
+  <product_type type_url="http://mebli-lviv.com.ua/cabinets">
+    <product product_url="http://mebli-lviv.com.ua/basket"/>
+  </product_type>
+  <product_type type_url="http://mebli-lviv.com.ua/tumby_pid_vzuttia_70_110">
+    <product product_url="http://mebli-lviv.com.ua/tumba_pidd_vzuttja_750_4d">
+      <equipment price="Ціна:  1090 грн.">
+        <description>висота  - 1745 мм 
+глибина   - 255  мм 
+ширина   - 760  мм 
+вага  - 39.00 кг</description>
+        <image scr="http://mebli-lviv.com.ua/makethumb.php?pic=upload/img/11554.jpg&amp;w=125&amp;sq=Y"/>
+      </equipment>
+    </product>
+  </product_type>
+  <product_type type_url="http://mebli-lviv.com.ua/tumby_pid_tehniku">
+    <product product_url="http://mebli-lviv.com.ua/tumba_pid_tehniku_lahyna">
+      <equipment price="Ціна:  1765 грн.">
+        <description>висота  - 1576 мм 
+глибина   - 370  мм 
+ширина   - 1400  мм 
+вага  - 55.00 кг</description>
+        <image scr="http://mebli-lviv.com.ua/makethumb.php?pic=upload/img/11559.jpg&amp;w=125&amp;sq=Y"/>
+      </equipment>
+    </product>
+  </product_type>
+  <product_type type_url="http://mebli-lviv.com.ua/kitchen_kuhni">
+    <product product_url="http://mebli-lviv.com.ua/kuhnya_sharlotta">
+      <equipment price="Ціна:  710 грн.">
+        <description>висота  - 850 мм 
+глибина   - 445/600  мм 
+ширина   - 800  мм</description>
+        <image scr="http://mebli-lviv.com.ua/makethumb.php?pic=upload/img/15931.jpg&amp;w=125&amp;sq=Y"/>
+      </equipment>
+      <equipment price="Ціна:  620 грн.">
+        <description>висота  - 850 мм 
+глибина   - 445/600  мм 
+ширина   - 800  мм</description>
+        <image scr="http://mebli-lviv.com.ua/makethumb.php?pic=upload/img/15932.jpg&amp;w=125&amp;sq=Y"/>
+      </equipment>
+      <equipment price="Ціна:  630 грн.">
+        <description>висота  - 850 мм 
+глибина   - 445/600  мм 
+ширина   - 600  мм</description>
+        <image scr="http://mebli-lviv.com.ua/makethumb.php?pic=upload/img/15933.jpg&amp;w=125&amp;sq=Y"/>
+      </equipment>
+      <equipment price="Ціна:  880 грн.">
+        <description>висота  - 850 мм 
+глибина   - 445/600  мм 
+ширина   - 400  мм</description>
+        <image scr="http://mebli-lviv.com.ua/makethumb.php?pic=upload/img/15924.jpg&amp;w=125&amp;sq=Y"/>
+      </equipment>
+      <equipment price="Ціна:  685 грн.">
+        <description>висота  - 718 мм 
+глибина   - 305  мм 
+ширина   - 800  мм</description>
+        <image scr="http://mebli-lviv.com.ua/makethumb.php?pic=upload/img/15934.jpg&amp;w=125&amp;sq=Y"/>
+      </equipment>
+    </product>
+  </product_type>
+  <product_type type_url="http://mebli-lviv.com.ua/komody">
+    <product product_url="http://mebli-lviv.com.ua/commode_commode_tys">
+      <equipment price="Ціна:  4210 грн.">
+        <description>висота  - 1000 мм 
+глибина   - 500  мм 
+ширина   - 1000  мм</description>
+        <image scr="http://mebli-lviv.com.ua/makethumb.php?pic=upload/img/15628.jpg&amp;w=125&amp;sq=Y"/>
+      </equipment>
+    </product>
+  </product_type>
+  <product_type type_url="http://mebli-lviv.com.ua/komody-mdf-dsp">
+    <product product_url="http://mebli-lviv.com.ua/commode-3s-80-vmv">
+      <equipment price="Ціна:  1400 грн.">
+        <description>висота  - 915 мм 
+глибина   - 350  мм 
+ширина   - 800  мм 
+вага  - 36.30 кг</description>
+      </equipment>
+    </product>
+  </product_type>
+  <product_type type_url="http://mebli-lviv.com.ua/dyvanu_pryami">
+    <product product_url="http://mebli-lviv.com.ua/duvan_artek_4802">
+      <equipment price="Ціна:  6530 грн.">
+        <description>висота  - 880 мм 
+глибина   - 970  мм 
+ширина   - 2270  мм</description>
+        <image scr="http://mebli-lviv.com.ua/makethumb.php?pic=upload/img/8402.jpg&amp;w=125&amp;sq=Y"/>
+      </equipment>
+      <equipment price="Ціна:  6850 грн.">
+        <description>висота  - 880 мм 
+глибина   - 970  мм 
+ширина   - 2270  мм</description>
+        <image scr="http://mebli-lviv.com.ua/makethumb.php?pic=upload/img/8403_82425.jpg&amp;w=125&amp;sq=Y"/>
+      </equipment>
+      <equipment price="Ціна:  7200 грн.">
+        <description>висота  - 880 мм 
+глибина   - 970  мм 
+ширина   - 2270  мм</description>
+        <image scr="http://mebli-lviv.com.ua/makethumb.php?pic=upload/img/8404.jpg&amp;w=125&amp;sq=Y"/>
+      </equipment>
+      <equipment price="Ціна:  7510 грн.">
+        <description>висота  - 880 мм 
+глибина   - 970  мм 
+ширина   - 2270  мм</description>
+        <image scr="http://mebli-lviv.com.ua/makethumb.php?pic=upload/img/8405_18106.jpg&amp;w=125&amp;sq=Y"/>
+      </equipment>
+      <equipment price="Ціна:  7860 грн.">
+        <description>висота  - 880 мм 
+глибина   - 970  мм 
+ширина   - 2270  мм</description>
+        <image scr="http://mebli-lviv.com.ua/makethumb.php?pic=upload/img/8406.jpg&amp;w=125&amp;sq=Y"/>
+      </equipment>
+    </product>
+  </product_type>
+  <product_type type_url="http://mebli-lviv.com.ua/kutovi_dyvanu">
+    <product product_url="http://mebli-lviv.com.ua/duvan_aljans">
+      <equipment price="Ціна:  11850 грн.">
+        <description>висота  - 820 мм 
+ширина   - 1620  мм 
+довжина  - 2700 мм</description>
+        <image scr="http://mebli-lviv.com.ua/makethumb.php?pic=upload/img/9136.jpg&amp;w=125&amp;sq=Y"/>
+      </equipment>
+      <equipment price="Ціна:  12300 грн.">
+        <description>висота  - 820 мм 
+ширина   - 1620  мм 
+довжина  - 2700 мм</description>
+        <image scr="http://mebli-lviv.com.ua/makethumb.php?pic=upload/img/9136.jpg&amp;w=125&amp;sq=Y"/>
+      </equipment>
+      <equipment price="Ціна:  12710 грн.">
+        <description>висота  - 820 мм 
+ширина   - 1620  мм 
+довжина  - 2700 мм</description>
+        <image scr="http://mebli-lviv.com.ua/makethumb.php?pic=upload/img/9136.jpg&amp;w=125&amp;sq=Y"/>
+      </equipment>
+      <equipment price="Ціна:  13090 грн.">
+        <description>висота  - 820 мм 
+ширина   - 1620  мм 
+довжина  - 2700 мм</description>
+        <image scr="http://mebli-lviv.com.ua/makethumb.php?pic=upload/img/9136.jpg&amp;w=125&amp;sq=Y"/>
+      </equipment>
+      <equipment price="Ціна:  13500 грн.">
+        <description>висота  - 820 мм 
+ширина   - 1620  мм 
+довжина  - 2700 мм</description>
+        <image scr="http://mebli-lviv.com.ua/makethumb.php?pic=upload/img/9136.jpg&amp;w=125&amp;sq=Y"/>
+      </equipment>
+    </product>
+  </product_type>
+  <product_type type_url="http://mebli-lviv.com.ua/dyvanu_dutjachi">
+    <product product_url="http://mebli-lviv.com.ua/duvan_dutjachuy_sonechko">
+      <equipment price="Ціна:  2480 грн.">
+        <description>висота  - 750 мм 
+ширина   - 840  мм 
+довжина  - 980 мм</description>
+        <image scr="http://mebli-lviv.com.ua/makethumb.php?pic=upload/img/10167.jpg&amp;w=125&amp;sq=Y"/>
+      </equipment>
+      <equipment price="Ціна:  2600 грн.">
+        <description>висота  - 750 мм 
+ширина   - 840  мм 
+довжина  - 980 мм</description>
+        <image scr="http://mebli-lviv.com.ua/makethumb.php?pic=upload/img/10167.jpg&amp;w=125&amp;sq=Y"/>
+      </equipment>
+      <equipment price="Ціна:  2760 грн.">
+        <description>висота  - 750 мм 
+ширина   - 840  мм 
+довжина  - 980 мм</description>
+        <image scr="http://mebli-lviv.com.ua/makethumb.php?pic=upload/img/10167.jpg&amp;w=125&amp;sq=Y"/>
+      </equipment>
+      <equipment price="Ціна:  2920 грн.">
+        <description>висота  - 750 мм 
+ширина   - 840  мм 
+довжина  - 980 мм</description>
+        <image scr="http://mebli-lviv.com.ua/makethumb.php?pic=upload/img/10167.jpg&amp;w=125&amp;sq=Y"/>
+      </equipment>
+      <equipment price="Ціна:  3050 грн.">
+        <description>висота  - 750 мм 
+ширина   - 840  мм 
+довжина  - 980 мм</description>
+        <image scr="http://mebli-lviv.com.ua/makethumb.php?pic=upload/img/10167.jpg&amp;w=125&amp;sq=Y"/>
+      </equipment>
+    </product>
+  </product_type>
+  <product_type type_url="http://mebli-lviv.com.ua/armchairs">
+    <product product_url="http://mebli-lviv.com.ua/krislo_gnom_mc">
+      <equipment price="Ціна:  860 грн.">
+        <description>вага  - 3.00 кг</description>
+        <image scr="http://mebli-lviv.com.ua/makethumb.php?pic=upload/img/13378.jpg&amp;w=125&amp;sq=Y"/>
+      </equipment>
+    </product>
+  </product_type>
+  <product_type type_url="http://mebli-lviv.com.ua/pouffes">
+    <product product_url="http://mebli-lviv.com.ua/taxi_pouffe_vk">
+      <equipment price="Ціна:  290 грн.">
+        <description></description>
+        <image scr="http://mebli-lviv.com.ua/makethumb.php?pic=upload/img/15583.jpg&amp;w=125&amp;sq=Y"/>
+      </equipment>
+      <equipment price="Ціна:  300 грн.">
+        <description></description>
+        <image scr="http://mebli-lviv.com.ua/makethumb.php?pic=upload/img/15583.jpg&amp;w=125&amp;sq=Y"/>
+      </equipment>
+      <equipment price="Ціна:  320 грн.">
+        <description></description>
+        <image scr="http://mebli-lviv.com.ua/makethumb.php?pic=upload/img/15583.jpg&amp;w=125&amp;sq=Y"/>
+      </equipment>
+      <equipment price="Ціна:  350 грн.">
+        <description></description>
+        <image scr="http://mebli-lviv.com.ua/makethumb.php?pic=upload/img/15583.jpg&amp;w=125&amp;sq=Y"/>
+      </equipment>
+      <equipment price="Ціна:  360 грн.">
+        <description></description>
+        <image scr="http://mebli-lviv.com.ua/makethumb.php?pic=upload/img/15583.jpg&amp;w=125&amp;sq=Y"/>
+      </equipment>
+    </product>
+  </product_type>
+  <product_type type_url="http://mebli-lviv.com.ua/kitchen_corners">
+    <product product_url="http://mebli-lviv.com.ua/kuhonnuy_kutok">
+      <equipment price="Ціна:  2350 грн.">
+        <description></description>
+        <image scr="http://mebli-lviv.com.ua/makethumb.php?pic=upload/img/3406.jpg&amp;w=125&amp;sq=Y"/>
+      </equipment>
+    </product>
+  </product_type>
+</data>
