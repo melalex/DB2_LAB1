@@ -32,21 +32,34 @@ def __add_products_from_url(url, parent):
 
 def __add_products_description_from_url(url, parent):
     html = parse(url)
+    main_description = html.xpath('//div[contains(@id, "page_content")]/div/table[1]/tr/td//text()')
+
+    if main_description:
+        main_description_element = Element('main_description')
+        description_str = reduce(lambda res, x: res + ' ' + x, main_description)
+        main_description_element.text = ' '.join(description_str.split())
+        parent.append(main_description_element)
+
     equipments = html.xpath('//table[contains(@class, "item_list")]/tr')[1:-1]
     for equipment in equipments[:settings.EQUIPMENT_LIMIT_PER_PRODUCT]:
-        price = equipment.xpath('.//span[contains(@class, "price_main")]//text()')
-        element = Element("equipment", price=price[0])
+        element = Element("equipment")
         description = equipment.xpath('.//td[contains(@valign, "top")]/text()')
         image = equipment.xpath('.//img')
+        price = equipment.xpath('.//span[contains(@class, "price_main")]//text()')
 
         if description:
             description_element = Element('description')
-            description_element.text = reduce(lambda res, x: res + '\n' + x, description).strip()
+            description_element.text = reduce(lambda res, x: res + ' ' + x, description).strip()
             element.append(description_element)
 
         if image:
             image_element = Element('image', scr=image[0].get('src'))
             element.append(image_element)
+
+        if price:
+            price_element = Element('price')
+            price_element.text = price[0]
+            element.append(price_element)
 
         parent.append(element)
 
