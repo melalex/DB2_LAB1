@@ -9,7 +9,7 @@ from lxml.etree import tostring
 
 def get_products():
     xml = Element("data")
-    html = parse(settings.SHOP_ALL_ITENS)
+    html = parse(settings.SHOP_ALL_ITEMS)
     products_types_urls = html.xpath('//div[contains(@class, "desc")]//a')
     for type_url in products_types_urls[:settings.PRODUCTS_TYPES_LIMITS]:
         url = type_url.get('href')
